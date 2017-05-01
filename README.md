@@ -1,2 +1,5 @@
 # hello-world
-starting out
+
+Hello
+
+I am just getting used to using GitHub. This is just for practice
